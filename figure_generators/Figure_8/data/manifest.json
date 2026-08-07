@@ -1,0 +1,37 @@
+{
+  "figure": 7,
+  "status": "production",
+  "content": "representative R=4 finite-pool trajectories vs. depth-K dynamic closures",
+  "protocol": {
+    "replicates": 120,
+    "U0": 8000,
+    "I0": 160,
+    "tau_on": 0.5,
+    "tau_end": 5.0,
+    "num_times": 151,
+    "gamma": 0.0,
+    "gamma_c": 1.0,
+    "seed": 20260815,
+    "workers": 1
+  },
+  "R": 4.0,
+  "c_values": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "dynamic_orders": [
+    1,
+    2,
+    3
+  ],
+  "bitwise_identical_to_figure6_R4_cells": true,
+  "software": {
+    "python": "3.13.12",
+    "numpy": "2.4.2",
+    "scipy": "1.17.1"
+  },
+  "elapsed_seconds": 10.37648800003808
+}
