@@ -1,0 +1,12 @@
+{
+  "design": "195 raw-rate protocols x 30 pools (U0=8000) + x1 pool (U0<8000), master seed 20260804",
+  "n120_median": 0.0013076626951041,
+  "n120_mean": 0.0015781032350015694,
+  "n120_q90": 0.002885281007904811,
+  "n120_max": 0.0069177298362879,
+  "population_size_median_U500": 0.0129264280545649,
+  "population_size_median_U8000": 0.0013372230582946,
+  "population_size_log_log_slope": -0.8172953174017358,
+  "replicate_count_log_log_slope": -0.4760657169493621,
+  "high_depth_max_abs_difference": 2.9877289531299306e-10
+}
