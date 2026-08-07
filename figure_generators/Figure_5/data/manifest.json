@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "R_curve_values": [
+    1.0,
+    1.5,
+    2.0,
+    4.0
+  ],
+  "solver": {
+    "base_depth": 20,
+    "max_depth": 640,
+    "depth_tolerance": 2e-13,
+    "root_tolerance": 2e-12,
+    "bessel_tolerance": 2e-12,
+    "c_points": 201,
+    "critical_points": 241
+  },
+  "diagnostics": {
+    "max_fixed_point_residual": 1.6930901125533637e-13,
+    "max_bessel_cf_difference": 1.6975310046518644e-13,
+    "max_growth_replacement_identity_residual": 3.1086244689504383e-15,
+    "minimum_admissibility_margin": 8.220635246624326e-18,
+    "minimum_simple_root_margin": 0.7350541249335705,
+    "all_rows_admissible": true,
+    "critical_endpoint_R_at_c1": 1.669780356564302,
+    "critical_endpoint_depth": 40,
+    "critical_endpoint_depth_difference": 0.0,
+    "max_critical_growth_residual": 4.218847493575595e-15,
+    "critical_curve_gridwise_monotone": true
+  },
+  "replicate_rows": 9200,
+  "cohort_summary_rows": 20,
+  "threshold_summary_rows": 36,
+  "maximum_relative_cohort_MCSE": 0.00497785657978555,
+  "all_cohorts_complete": true,
+  "zero_cap_censoring": true,
+  "threshold_sign_agreement": true,
+  "threshold_intervals_resolve_predicted_sign": true,
+  "sources": {
+    "canonical_qss.py": "5d5c16ea300c1eff2b8c380fa2ff842de24667eba8dbebe4c93d16df1e99e893",
+    "figure3_measurement_windows.json": "03d3a7d8ea4909b0a1f37a507ae20ee825a201a803fca0505cb8a6df1f3bebaa"
+  },
+  "software": {
+    "python": "3.13.12",
+    "numpy": "2.4.2"
+  }
+}

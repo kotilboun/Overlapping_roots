@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "figure": 1,
+  "description": "One physical active transmission forest and two overlapping root-centered bookkeeping views.",
+  "nodes": [
+    {"id": "a", "parent": null, "active": true, "x": 0.24, "y": 0.86},
+    {"id": "b", "parent": "a", "active": true, "x": 0.12, "y": 0.66},
+    {"id": "i", "parent": "a", "active": true, "x": 0.40, "y": 0.66},
+    {"id": "d", "parent": "i", "active": true, "x": 0.24, "y": 0.46},
+    {"id": "j", "parent": "i", "active": true, "x": 0.40, "y": 0.46},
+    {"id": "c", "parent": "i", "active": true, "x": 0.56, "y": 0.46},
+    {"id": "f", "parent": "j", "active": true, "x": 0.32, "y": 0.26},
+    {"id": "e", "parent": "j", "active": true, "x": 0.48, "y": 0.26},
+    {"id": "g", "parent": "f", "active": true, "x": 0.32, "y": 0.06},
+    {"id": "h", "parent": "e", "active": true, "x": 0.48, "y": 0.06}
+  ],
+  "selected_roots": {
+    "i": {
+      "expected_descendant_counts": {"1": 3, "2": 2, "3": 2}
+    },
+    "j": {
+      "expected_descendant_counts": {"1": 2, "2": 2}
+    }
+  },
+  "display": {
+    "physical_subtree_root": "i",
+    "highlight": {
+      "i": {"edge": "#4b8b5a", "face": "#eef8ef"},
+      "j": {"edge": "#2f6f9f", "face": "#eef6fb"}
+    }
+  }
+}

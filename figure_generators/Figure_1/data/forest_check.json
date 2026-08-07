@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "specification": "forest_spec.json",
+  "specification_sha256": "ef3b1928b2f062aed609d4563a4b956ddaf260ef2be778dee62b0af319a7b55c",
+  "node_count": 10,
+  "active_node_count": 10,
+  "physical_roots": [
+    "a"
+  ],
+  "directed_active_edges": [
+    [
+      "a",
+      "b"
+    ],
+    [
+      "a",
+      "i"
+    ],
+    [
+      "i",
+      "d"
+    ],
+    [
+      "i",
+      "j"
+    ],
+    [
+      "i",
+      "c"
+    ],
+    [
+      "j",
+      "f"
+    ],
+    [
+      "j",
+      "e"
+    ],
+    [
+      "f",
+      "g"
+    ],
+    [
+      "e",
+      "h"
+    ]
+  ],
+  "selected_root_checks": {
+    "i": {
+      "expected": {
+        "1": 3,
+        "2": 2,
+        "3": 2
+      },
+      "observed": {
+        "1": 3,
+        "2": 2,
+        "3": 2
+      },
+      "local_nodes": [
+        "i",
+        "d",
+        "j",
+        "c",
+        "f",
+        "e",
+        "g",
+        "h"
+      ],
+      "check_passed": true
+    },
+    "j": {
+      "expected": {
+        "1": 2,
+        "2": 2
+      },
+      "observed": {
+        "1": 2,
+        "2": 2
+      },
+      "local_nodes": [
+        "j",
+        "f",
+        "e",
+        "g",
+        "h"
+      ],
+      "check_passed": true
+    }
+  },
+  "all_checks_passed": true
+}
