@@ -1,0 +1,18 @@
+ELECTRONIC SUPPLEMENTARY MATERIAL CAPTIONS
+
+Article: Overlapping roots: a transmission-tree framework for population-level contact-tracing dynamics
+Journal: Bulletin of Mathematical Biology
+Author: Seyfullah Enes Kotil
+Corresponding author: enesseyfullah.kotil@bogazici.edu.tr
+
+Online Resource 1 (ESM_1.pdf)
+Finite-population agent-based benchmark and direct event-level verification, including Sections OR1-S1–OR1-S7, Tables OR1.1–OR1.8, and Figs. OR1.1–OR1.4.
+
+Online Resource 2 (ESM_2.xlsx)
+All 780 dimensional parameterizations, published trajectory-error and convergence summaries, and deterministic-reference and event-term checks.
+
+Online Resource 3 (ESM_3.zip)
+Available executable and audit code, numerical tables and data, event-term data, figure-generation files, software requirements, and reproducibility documentation.
+
+Online Resource 4 (ESM_4.pdf)
+Analytical and numerical supplements for the implicit QSS solution (Sections S4.1–S4.3), the perturbative QSS construction (Sections S7.1–S7.5), and the Section 6 technical results and large-population ABM ensemble protocol (Sections S8.1–S8.5).
