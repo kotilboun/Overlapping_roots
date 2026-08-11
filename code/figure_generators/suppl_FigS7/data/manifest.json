@@ -1,0 +1,38 @@
+{
+  "protocol": {
+    "replicates": 120,
+    "U0": 8000,
+    "I0": 160,
+    "tau_on": 0.5,
+    "tau_end": 5.0,
+    "num_times": 151,
+    "gamma": 0.0,
+    "gamma_c": 1.0,
+    "seed": 20260815,
+    "workers": 8
+  },
+  "R_values": [
+    1.0,
+    1.5,
+    2.0,
+    4.0
+  ],
+  "c_values": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "moment_counter_validation": "passed",
+  "estimand": "closure evaluated at ensemble-mean ABM state",
+  "snapshot_error": "closure-supplied minus ABM-measured",
+  "histogram_tick_rule": "mean-2 population SD, mean, mean+2 population SD; each rounded to two significant digits",
+  "elapsed_seconds": 29.32871759997215,
+  "software": {
+    "python": "3.13.12",
+    "numpy": "2.4.2",
+    "scipy": "1.17.1"
+  },
+  "minimum_alive_post_activation": 119
+}

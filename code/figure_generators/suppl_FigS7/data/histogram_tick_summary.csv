@@ -1,0 +1,5 @@
+closure,delta_definition,n_snapshot_values,mean,standard_deviation,tick_mean_minus_2sd,tick_mean,tick_mean_plus_2sd
+algebraic_qss0,closure_supplied_minus_ABM_measured,2176,-0.020516692547550584,0.039063796502206094,-0.099,-0.021,0.058
+dynamic_K1,closure_supplied_minus_ABM_measured,2176,0.00879410195088304,0.021691906612559243,-0.035,0.0088,0.052
+dynamic_K2,closure_supplied_minus_ABM_measured,2176,0.0030254849704969304,0.009401125511031611,-0.016,0.003,0.022
+dynamic_K3,closure_supplied_minus_ABM_measured,2176,0.000871241049029179,0.0036131937760019214,-0.0064,0.00087,0.0081
