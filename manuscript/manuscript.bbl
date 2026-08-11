@@ -1,0 +1,247 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{muller2021}
+J.~M\"uller, M.~Kretzschmar, Contact tracing---old models and new challenges,
+  Infect. Dis. Model. 6 (2021) 222--231.
+\newblock \href {https://doi.org/10.1016/j.idm.2020.12.005}
+  {\path{doi:10.1016/j.idm.2020.12.005}}.
+
+\bibitem{muller2000}
+J.~M\"uller, M.~Kretzschmar, K.~Dietz, Contact tracing in stochastic and
+  deterministic epidemic models, Math. Biosci. 164 (2000) 39--64.
+\newblock \href {https://doi.org/10.1016/S0025-5564(99)00061-9}
+  {\path{doi:10.1016/S0025-5564(99)00061-9}}.
+
+\bibitem{klinkenberg2006}
+D.~Klinkenberg, C.~Fraser, J.~A.~P. Heesterbeek, The effectiveness of contact
+  tracing in emerging epidemics, PLoS ONE 1 (2006) e12.
+\newblock \href {https://doi.org/10.1371/journal.pone.0000012}
+  {\path{doi:10.1371/journal.pone.0000012}}.
+
+\bibitem{ball2011}
+F.~G. Ball, E.~S. Knock, P.~D. O'Neill, Threshold behaviour of emerging
+  epidemics featuring contact tracing, Adv. Appl. Probab. 43 (2011) 1048--1065.
+\newblock \href {https://doi.org/10.1239/aap/1324045698}
+  {\path{doi:10.1239/aap/1324045698}}.
+
+\bibitem{ball2015}
+F.~G. Ball, E.~S. Knock, P.~D. O'Neill, Stochastic epidemic models featuring
+  contact tracing with delays, Math. Biosci. 266 (2015) 23--35.
+\newblock \href {https://doi.org/10.1016/j.mbs.2015.05.007}
+  {\path{doi:10.1016/j.mbs.2015.05.007}}.
+
+\bibitem{muller2016}
+J.~M\"uller, B.~Koopmann, The effect of delay on contact tracing, Math. Biosci.
+  282 (2016) 204--214.
+\newblock \href {https://doi.org/10.1016/j.mbs.2016.10.010}
+  {\path{doi:10.1016/j.mbs.2016.10.010}}.
+
+\bibitem{okolie2020}
+A.~Okolie, J.~M\"uller, Exact and approximate formulas for contact tracing on
+  random trees, Math. Biosci. 321 (2020) 108320.
+\newblock \href {https://doi.org/10.1016/j.mbs.2020.108320}
+  {\path{doi:10.1016/j.mbs.2020.108320}}.
+
+\bibitem{muller2023}
+J.~M\"uller, V.~H\"osel, Contact tracing \& super-spreaders in the
+  branching-process model, J. Math. Biol. 86 (2023) 24.
+\newblock \href {https://doi.org/10.1007/s00285-022-01857-6}
+  {\path{doi:10.1007/s00285-022-01857-6}}.
+
+\bibitem{eames2003}
+K.~T.~D. Eames, M.~J. Keeling, Contact tracing and disease control, Proc. R.
+  Soc. B 270 (2003) 2565--2571.
+\newblock \href {https://doi.org/10.1098/rspb.2003.2554}
+  {\path{doi:10.1098/rspb.2003.2554}}.
+
+\bibitem{house2010}
+T.~House, M.~J. Keeling, The impact of contact tracing in clustered
+  populations, PLoS Comput. Biol. 6 (2010) e1000721.
+\newblock \href {https://doi.org/10.1371/journal.pcbi.1000721}
+  {\path{doi:10.1371/journal.pcbi.1000721}}.
+
+\bibitem{karrer2010}
+B.~Karrer, M.~E.~J. Newman, Message passing approach for general epidemic
+  models, Phys. Rev. E 82 (2010) 016101.
+\newblock \href {https://doi.org/10.1103/PhysRevE.82.016101}
+  {\path{doi:10.1103/PhysRevE.82.016101}}.
+
+\bibitem{sharkey2015a}
+K.~J. Sharkey, I.~Z. Kiss, R.~R. Wilkinson, P.~L. Simon, Exact equations for
+  {SIR} epidemics on tree graphs, Bull. Math. Biol. 77 (2015) 614--645.
+\newblock \href {https://doi.org/10.1007/s11538-013-9923-5}
+  {\path{doi:10.1007/s11538-013-9923-5}}.
+
+\bibitem{sharkey2015b}
+K.~J. Sharkey, R.~R. Wilkinson, Complete hierarchies of {SIR} models on
+  arbitrary networks with exact and approximate moment closure, Math. Biosci.
+  264 (2015) 74--85.
+\newblock \href {https://doi.org/10.1016/j.mbs.2015.03.008}
+  {\path{doi:10.1016/j.mbs.2015.03.008}}.
+
+\bibitem{pellis2015}
+L.~Pellis, T.~House, M.~J. Keeling, Exact and approximate moment closures for
+  non-{M}arkovian network epidemics, J. Theor. Biol. 382 (2015) 160--177.
+\newblock \href {https://doi.org/10.1016/j.jtbi.2015.04.039}
+  {\path{doi:10.1016/j.jtbi.2015.04.039}}.
+
+\bibitem{wilkinson2017}
+R.~R. Wilkinson, F.~G. Ball, K.~J. Sharkey, The relationships between message
+  passing, pairwise, {K}ermack--{M}ckendrick and stochastic {SIR} epidemic
+  models, J. Math. Biol. 75 (2017) 1563--1590.
+\newblock \href {https://doi.org/10.1007/s00285-017-1123-8}
+  {\path{doi:10.1007/s00285-017-1123-8}}.
+
+\bibitem{hethcote1984}
+H.~W. Hethcote, J.~A. Yorke, Gonorrhea Transmission Dynamics and Control,
+  Vol.~56 of Lecture Notes in Biomathematics, Springer-Verlag, Berlin, 1984.
+\newblock \href {https://doi.org/10.1007/978-3-662-07544-9}
+  {\path{doi:10.1007/978-3-662-07544-9}}.
+
+\bibitem{dearazoza2002}
+H.~de~Arazoza, R.~Lounes, A non-linear model for a sexually transmitted disease
+  with contact tracing, IMA J. Math. Appl. Med. Biol. 19 (2002) 221--234.
+\newblock \href {https://doi.org/10.1093/imammb/19.3.221}
+  {\path{doi:10.1093/imammb/19.3.221}}.
+
+\bibitem{hyman2003}
+J.~M. Hyman, J.~Li, E.~A. Stanley, Modeling the impact of random screening and
+  contact tracing in reducing the spread of {HIV}, Math. Biosci. 181 (2003)
+  17--54.
+\newblock \href {https://doi.org/10.1016/S0025-5564(02)00128-1}
+  {\path{doi:10.1016/S0025-5564(02)00128-1}}.
+
+\bibitem{hsieh2010}
+Y.~H. Hsieh, Y.~S. Wang, H.~de~Arazoza, R.~Lounes, Modeling secondary level of
+  {HIV} contact tracing: its impact on {HIV} intervention in {C}uba, BMC
+  Infect. Dis. 10 (2010) 194.
+\newblock \href {https://doi.org/10.1186/1471-2334-10-194}
+  {\path{doi:10.1186/1471-2334-10-194}}.
+
+\bibitem{zhang2022}
+D.~Zhang, T.~Britton, Analysing the effect of test-and-trace strategy in an
+  {SIR} epidemic model, Bull. Math. Biol. 84 (2022) 105.
+\newblock \href {https://doi.org/10.1007/s11538-022-01065-9}
+  {\path{doi:10.1007/s11538-022-01065-9}}.
+
+\bibitem{gautschi1967}
+W.~Gautschi, Computational aspects of three-term recurrence relations, SIAM
+  Rev. 9 (1967) 24--82.
+\newblock \href {https://doi.org/10.1137/1009002} {\path{doi:10.1137/1009002}}.
+
+\bibitem{olver2010}
+F.~W.~J. Olver, D.~W. Lozier, R.~F. Boisvert, C.~W. Clark (Eds.), {NIST}
+  Handbook of Mathematical Functions, Cambridge University Press, New York,
+  2010,
+  \url{https://www.nist.gov/publications/nist-handbook-mathematical-functions}.
+
+\bibitem{amos1974}
+D.~E. Amos, Computation of modified {B}essel functions and their ratios, Math.
+  Comput. 28 (1974) 239--251.
+\newblock \href {https://doi.org/10.1090/S0025-5718-1974-0333287-7}
+  {\path{doi:10.1090/S0025-5718-1974-0333287-7}}.
+
+\bibitem{segel1989}
+L.~A. Segel, M.~Slemrod, The quasi-steady-state assumption: a case study in
+  perturbation, SIAM Rev. 31 (1989) 446--477.
+\newblock \href {https://doi.org/10.1137/1031091} {\path{doi:10.1137/1031091}}.
+
+\bibitem{krantz2002}
+S.~G. Krantz, H.~R. Parks, The Implicit Function Theorem: History, Theory, and
+  Applications, Birkh\"auser, Boston, 2002.
+\newblock \href {https://doi.org/10.1007/978-1-4612-0059-8}
+  {\path{doi:10.1007/978-1-4612-0059-8}}.
+
+\bibitem{murdock1999}
+J.~A. Murdock, Perturbations: Theory and Methods, Vol.~27 of Classics in
+  Applied Mathematics, SIAM, Philadelphia, 1999.
+\newblock \href {https://doi.org/10.1137/1.9781611971095}
+  {\path{doi:10.1137/1.9781611971095}}.
+
+\bibitem{diekmann1990}
+O.~Diekmann, J.~A.~P. Heesterbeek, J.~A.~J. Metz, On the definition and the
+  computation of the basic reproduction ratio {$R_0$} in models for infectious
+  diseases in heterogeneous populations, J. Math. Biol. 28 (1990) 365--382.
+\newblock \href {https://doi.org/10.1007/BF00178324}
+  {\path{doi:10.1007/BF00178324}}.
+
+\bibitem{wallinga2007}
+J.~Wallinga, M.~Lipsitch, How generation intervals shape the relationship
+  between growth rates and reproductive numbers, Proc. R. Soc. B 274 (2007)
+  599--604.
+\newblock \href {https://doi.org/10.1098/rspb.2006.3754}
+  {\path{doi:10.1098/rspb.2006.3754}}.
+
+\bibitem{fraser2004}
+C.~Fraser, S.~Riley, R.~M. Anderson, N.~M. Ferguson, Factors that make an
+  infectious disease outbreak controllable, Proc. Natl. Acad. Sci. U.S.A. 101
+  (2004) 6146--6151.
+\newblock \href {https://doi.org/10.1073/pnas.0307506101}
+  {\path{doi:10.1073/pnas.0307506101}}.
+
+\bibitem{hellewell2020}
+J.~Hellewell, S.~Abbott, A.~Gimma, N.~I. Bosse, C.~I. Jarvis, T.~W. Russell,
+  J.~D. Munday, A.~J. Kucharski, W.~J. Edmunds, S.~Funk, R.~M. Eggo,
+  Feasibility of controlling {COVID-19} outbreaks by isolation of cases and
+  contacts, Lancet Glob. Health 8 (2020) e488--e496.
+\newblock \href {https://doi.org/10.1016/S2214-109X(20)30074-7}
+  {\path{doi:10.1016/S2214-109X(20)30074-7}}.
+
+\bibitem{ferretti2020}
+L.~Ferretti, C.~Wymant, M.~Kendall, L.~Zhao, A.~Nurtay, L.~Abeler-D\"orner,
+  M.~Parker, D.~Bonsall, C.~Fraser, Quantifying {SARS-CoV-2} transmission
+  suggests epidemic control with digital contact tracing, Science 368 (2020)
+  eabb6936.
+\newblock \href {https://doi.org/10.1126/science.abb6936}
+  {\path{doi:10.1126/science.abb6936}}.
+
+\bibitem{kucharski2020}
+A.~J. Kucharski, P.~Klepac, A.~J.~K. Conlan, S.~M. Kissler, M.~L. Tang, H.~Fry,
+  J.~R. Gog, W.~J. Edmunds, Effectiveness of isolation, testing, contact
+  tracing, and physical distancing on reducing transmission of {SARS-CoV-2} in
+  different settings: a mathematical modelling study, Lancet Infect. Dis. 20
+  (2020) 1151--1160.
+\newblock \href {https://doi.org/10.1016/S1473-3099(20)30457-6}
+  {\path{doi:10.1016/S1473-3099(20)30457-6}}.
+
+\bibitem{taylor2012}
+M.~Taylor, P.~L. Simon, D.~M. Green, T.~House, I.~Z. Kiss, From {M}arkovian to
+  pairwise epidemic models and the performance of moment closure
+  approximations, J. Math. Biol. 64 (2012) 1021--1042.
+\newblock \href {https://doi.org/10.1007/s00285-011-0443-3}
+  {\path{doi:10.1007/s00285-011-0443-3}}.
+
+\bibitem{kretzschmar2020}
+M.~E. Kretzschmar, G.~Rozhnova, M.~C.~J. Bootsma, M.~van Boven, J.~H. H.~M.
+  van~de Wijgert, M.~J.~M. Bonten, Impact of delays on effectiveness of contact
+  tracing strategies for {COVID-19}: a modelling study, Lancet Public Health 5
+  (2020) e452--e459.
+\newblock \href {https://doi.org/10.1016/S2468-2667(20)30157-2}
+  {\path{doi:10.1016/S2468-2667(20)30157-2}}.
+
+\bibitem{bradshaw2021}
+W.~J. Bradshaw, E.~C. Alley, J.~H. Huggins, A.~L. Lloyd, K.~M. Esvelt,
+  Bidirectional contact tracing could dramatically improve {COVID-19} control,
+  Nat. Commun. 12 (2021) 232.
+\newblock \href {https://doi.org/10.1038/s41467-020-20325-7}
+  {\path{doi:10.1038/s41467-020-20325-7}}.
+
+\bibitem{kojaku2021}
+S.~Kojaku, L.~H\'ebert-Dufresne, E.~Mones, S.~Lehmann, Y.~Y. Ahn, The
+  effectiveness of backward contact tracing in networks, Nat. Phys. 17 (2021)
+  652--658.
+\newblock \href {https://doi.org/10.1038/s41567-021-01187-2}
+  {\path{doi:10.1038/s41567-021-01187-2}}.
+
+\bibitem{juul2023}
+J.~L. Juul, S.~H. Strogatz, Comparing the efficiency of forward and backward
+  contact tracing, Phys. Rev. E 108 (2023) 034308.
+\newblock \href {https://doi.org/10.1103/PhysRevE.108.034308}
+  {\path{doi:10.1103/PhysRevE.108.034308}}.
+
+\end{thebibliography}

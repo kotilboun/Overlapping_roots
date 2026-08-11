@@ -1,0 +1,27 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.blg
+*.spl
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.lof
+*.lot
+
+# keep the prebuilt bibliography: the manuscript compiles without bibtex
+!*.bbl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
