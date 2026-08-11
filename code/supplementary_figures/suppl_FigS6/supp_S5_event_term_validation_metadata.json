@@ -1,0 +1,81 @@
+{
+  "figure": "Supplementary Figure S5",
+  "purpose": "direct event-count versus ABM-supplied analytical-term comparison",
+  "U0": 8000,
+  "I0": 160,
+  "R_grid": [
+    2.0,
+    4.0,
+    6.0
+  ],
+  "c_grid": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "Gamma_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "raw_rate_protocols": 195,
+  "replicates_per_protocol": 120,
+  "observation_intervals": 150,
+  "protocol_interval_points": 29250,
+  "trace_activation_tau": 0.5,
+  "master_seed": 20260817,
+  "zero_expected_trace_points": 9000,
+  "zero_expected_trace_points_with_observed_trace_removals": 0,
+  "panel_metrics": [
+    {
+      "n_points": 29250,
+      "slope_through_origin": 1.0000726211843376,
+      "r_squared": 0.9999053652303371,
+      "total_observed_over_expected": 1.0000172578114228,
+      "rmse_events_per_realization_interval": 0.6015606766496995,
+      "mae_events_per_realization_interval": 0.38756971620976266,
+      "event": "transmission",
+      "zero_hazard_points_omitted_from_plot": 0
+    },
+    {
+      "n_points": 29250,
+      "slope_through_origin": 1.000111688049075,
+      "r_squared": 0.9997641552944156,
+      "total_observed_over_expected": 1.0000941913236832,
+      "rmse_events_per_realization_interval": 0.3033272112620021,
+      "mae_events_per_realization_interval": 0.16385798263181792,
+      "event": "recovery",
+      "zero_hazard_points_omitted_from_plot": 0
+    },
+    {
+      "n_points": 29250,
+      "slope_through_origin": 1.000076292413949,
+      "r_squared": 0.9997046652262389,
+      "total_observed_over_expected": 0.9999705212037889,
+      "rmse_events_per_realization_interval": 0.4440005261803271,
+      "mae_events_per_realization_interval": 0.3078723008908292,
+      "event": "identification",
+      "zero_hazard_points_omitted_from_plot": 0
+    },
+    {
+      "n_points": 20250,
+      "slope_through_origin": 1.000343734730883,
+      "r_squared": 0.9990718691764211,
+      "total_observed_over_expected": 1.0001008131247209,
+      "rmse_events_per_realization_interval": 0.39365299045949453,
+      "mae_events_per_realization_interval": 0.2577950282750956,
+      "event": "traced_removal",
+      "zero_hazard_points_omitted_from_plot": 9000
+    }
+  ],
+  "analytical_terms": {
+    "transmission": "beta U I",
+    "recovery": "gamma I",
+    "identification": "gamma_c I",
+    "traced_removal": "gamma_c p_f M1"
+  }
+}
